@@ -1,0 +1,16 @@
+[
+  {
+    "latitude": -7.2958,
+    "longitude": 112.7552,
+    "speed": 18,
+    "course": 78,
+    "altitude": 0,
+    "satellite": 10,
+    "roll": 79,
+    "pitch": 75,
+    "yaw": 142,
+    "depth": 97,
+    "timestamp": "2024-11-22T16:37:00",
+    "deviceId": "b2cb5c93-742b-4a88-b4aa-c4a156fde6ed"
+  }
+]
