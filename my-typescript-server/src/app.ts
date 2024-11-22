@@ -16,7 +16,7 @@ app.use('/api', positionRoutes);
 app.use('/api', devicesRoutes);
 
 // Serve Angular dist folder
-const distDir = path.join(__dirname, '../../angularCSMS/dist/myapp'); // Path ke folder dist
+const distDir = path.join(__dirname, '../../dist/myapp'); // Path ke folder dist
 app.use(express.static(distDir));
 
 // Fallback route for Angular
